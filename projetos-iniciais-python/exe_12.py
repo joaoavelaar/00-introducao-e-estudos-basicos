@@ -1,16 +1,3 @@
-{
-  "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "colab_type": "text",
-        "id": "view-in-github"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/joaoavelaar/FabricaDeSoftware.WorkShop/blob/main/Fabrica_de_software_Dia3.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
-    {
       "cell_type": "markdown",
       "metadata": {},
       "source": [
